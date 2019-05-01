@@ -2,7 +2,7 @@ spring:
     datasource:
         jdbc.url: jdbc:mysql://localhost/test
         jdbc.username: root
-        jdbc.password: wuchenqi
+        jdbc.password: ***
         jdbc.diver-class-name: com.mysql.jdbc.Driver
 
 mybatis:
