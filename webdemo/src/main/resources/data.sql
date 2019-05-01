@@ -1,0 +1,1 @@
+insert into products(id,name, price) values(1,'wucq', 200);
